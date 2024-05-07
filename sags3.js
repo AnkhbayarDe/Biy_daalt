@@ -1,4 +1,4 @@
-var pricePerItem = 54900;
+var pricePerItem =6900;
 var DeliveryPrice = 5000;
 
 function changeQuantity(change, event) {

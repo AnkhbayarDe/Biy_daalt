@@ -39,6 +39,8 @@ body {
 
 .tom-zar {
   display: flex;
+  height: 20px;
+
 }
 .cover{
   margin-top: 5%;;
